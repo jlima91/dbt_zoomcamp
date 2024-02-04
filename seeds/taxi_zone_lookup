@@ -1,6 +1,0 @@
-select
-    locationid,
-    borough,
-    zone,
-    service_zone
-from strong-arbor-411111.production.undefined
